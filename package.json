@@ -1,0 +1,23 @@
+{
+  "name": "nkr-hp",
+  "version": "1.0.0",
+  "description": "nkr Solutions homepage",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitaro-tn/nkr-hp.git"
+  },
+  "author": "Tatsunori Nishikori",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kitaro-tn/nkr-hp/issues"
+  },
+  "homepage": "https://github.com/kitaro-tn/nkr-hp#readme"
+}
